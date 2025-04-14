@@ -12,15 +12,15 @@
 - 🎓 Tôi là sinh viên IT tại **KMA University**
 
 - 🔭 Hiện tôi đang làm việc với Web và application
-- 
+  
 - 🌱 Tôi đang phát triển các kỹ năng về **Web Development** và **Android Development**
-- 
+  
 - 💬 Hãy hỏi tôi về **Java, Node.js, MongoDB, và Backend Development**
-- 
+  
 - 📫 Liên hệ với tôi: **Ninhtran949@gmail.com**
-- 
+  
 - 📞 Phone: **+84375227251**
-- 
+  
 - 🏠 Địa chỉ: **Tan Trieu, Thanh Tri, Ha noi**
 ---
 ### 🛠️ Ngôn ngữ và Công cụ:
