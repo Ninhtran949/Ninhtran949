@@ -9,11 +9,17 @@
 ---
 ### 🧑‍💻 Về tôi:
 - 🎓 Tôi là sinh viên IT tại **KMA University**
-- 🔭 Hiện tôi đang làm việc với Web và application 
+
+- 🔭 Hiện tôi đang làm việc với Web và application
+- 
 - 🌱 Tôi đang phát triển các kỹ năng về **Web Development** và **Android Development**
+- 
 - 💬 Hãy hỏi tôi về **Java, Node.js, MongoDB, và Backend Development**
+- 
 - 📫 Liên hệ với tôi: **Ninhtran949@gmail.com**
+- 
 - 📞 Phone: **+84375227251**
+- 
 - 🏠 Địa chỉ: **Tan Trieu, Thanh Tri, Ha noi**
 ---
 ### 🛠️ Ngôn ngữ và Công cụ:
@@ -45,9 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 ---
-### 🔥 Thống kê của tôi:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ninhtran949&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninhtran949&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ### 📫 Kết nối với tôi:
 <div id="badges">
