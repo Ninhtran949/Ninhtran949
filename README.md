@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Xin chào 👋, Tôi là Ninh Bao Tran</h1>
-<h3 align="center">I'm a Developer form  VietNam</h3>
+<h3 align="center">I'm a Developer from  VietNam</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ninhtran949&style=flat-square&color=blue" alt=""/>
 </div>
