@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 Về tôi:
-- Portfolio : https://portfolio-hazel-five-17.vercel.app
+- 🌐 Portfolio : https://portfolio-hazel-five-17.vercel.app
 
 - 🎓 Tôi là sinh viên IT tại **KMA University**
 
